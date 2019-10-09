@@ -1,0 +1,6 @@
+framework module Pods_JFCocoapods_Example {
+  umbrella header "Pods-JFCocoapods_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - JFCocoapods (0.1.0)
+
+DEPENDENCIES:
+  - JFCocoapods (from `../`)
+
+EXTERNAL SOURCES:
+  JFCocoapods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JFCocoapods: 1dc43cb37291da1b6c1d1b63e3bfb2fc03234ce9
+
+PODFILE CHECKSUM: 34fb5bb34c15e94055992a0b7d86b5268410aee3
+
+COCOAPODS: 1.5.3

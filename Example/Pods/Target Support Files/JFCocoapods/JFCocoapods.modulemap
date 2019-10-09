@@ -1,0 +1,6 @@
+framework module JFCocoapods {
+  umbrella header "JFCocoapods-umbrella.h"
+
+  export *
+  module * { export * }
+}
