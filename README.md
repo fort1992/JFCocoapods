@@ -1,0 +1,29 @@
+# JFCocoapods
+
+[![CI Status](https://img.shields.io/travis/front/JFCocoapods.svg?style=flat)](https://travis-ci.org/front/JFCocoapods)
+[![Version](https://img.shields.io/cocoapods/v/JFCocoapods.svg?style=flat)](https://cocoapods.org/pods/JFCocoapods)
+[![License](https://img.shields.io/cocoapods/l/JFCocoapods.svg?style=flat)](https://cocoapods.org/pods/JFCocoapods)
+[![Platform](https://img.shields.io/cocoapods/p/JFCocoapods.svg?style=flat)](https://cocoapods.org/pods/JFCocoapods)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+JFCocoapods is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'JFCocoapods'
+```
+
+## Author
+
+front, front1992@163.com
+
+## License
+
+JFCocoapods is available under the MIT license. See the LICENSE file for more info.
